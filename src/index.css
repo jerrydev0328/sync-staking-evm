@@ -1,0 +1,13 @@
+.wallet-adapter-modal-wrapper,
+.wallet-adapter-modal-button-close {
+    background-color: #121212;
+}
+
+.wallet-adapter-button {
+    line-height: 40px;
+    height: 40px;
+}
+
+.wallet-adapter-button-start-icon {
+    display: none;
+}
