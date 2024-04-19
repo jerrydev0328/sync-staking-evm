@@ -14,8 +14,8 @@ const TimeComponent = ({ stakeInfor, stakeBalance }) => {
 
     const [opt, setOpt] = useState(0)
 
-    // let symbol = opt < 5 ? "ASVORIA" : "USDT"
-    let symbol = "ASVORIA"
+    // let symbol = opt < 5 ? "SYNC" : "USDT"
+    let symbol = "SYNC"
     // let decimals = opt < 5 ? 9 : 6
 
     let deadline = new Date().getTime()

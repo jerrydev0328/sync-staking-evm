@@ -235,7 +235,7 @@ const DashboardDefault = () => {
 
                                 <Stack direction="row" spacing={2.5}>
                                     <select style={styles.selectBox}>
-                                        <option value="1">ASVORIA</option>
+                                        <option value="1">SYNC</option>
                                     </select>
                                 </Stack>
                             </Stack>
@@ -325,9 +325,9 @@ const DashboardDefault = () => {
                                         </div>
                                         <Stack spacing={1.5}>
                                             <Stack direction="row" spacing={1.2} alignItems="center">
-                                                <Typography variant="p" sx={{ fontWeight: 700, fontSize: '16px', color: "white" }} >ASVORIA</Typography>
+                                                <Typography variant="p" sx={{ fontWeight: 700, fontSize: '16px', color: "white" }} >SYNC</Typography>
                                                 <div style={{ width: "1px", height: "10px", background: "#C7C8CC" }}></div>
-                                                <Typography variant="p" sx={{ fontWeight: 500, fontSize: '16px', color: "white", opacity: 0.5 }} >ASVORIA TOKEN</Typography>
+                                                <Typography variant="p" sx={{ fontWeight: 500, fontSize: '16px', color: "white", opacity: 0.5 }} >SYNC TOKEN</Typography>
                                             </Stack>
                                             <Typography variant="p" sx={{ fontWeight: 700, fontSize: '16px', color: "white" }}>$ 0.0012 USD</Typography>
                                         </Stack>
